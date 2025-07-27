@@ -3,8 +3,6 @@ This project is an intelligent study tool that leverages a Retrieval-Augmented G
 
 Built with Streamlit, it provides a simple user interface where a user can upload a GenAI-related PDF, and the system will produce a set of questions to test their knowledge on the document's content.
 
-(Note: Replace this placeholder with a real screenshot of your Streamlit application.)
-
 🎯 Project Goal
 The primary goal is to create an automated question-generation system that helps users study and review technical documents more efficiently. The application should be able to:
 
